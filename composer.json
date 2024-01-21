@@ -1,0 +1,11 @@
+{
+    "name": "hamza/php_framework",
+    "description": "A Simple PHP Framework",
+    "authors": [
+        {
+            "name": "Hamza Azam",
+            "email": "hamzaazam411@gmail.com"
+        }
+    ],
+    "require": {}
+}
